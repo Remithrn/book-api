@@ -42,8 +42,8 @@ The Book Management API is a Django REST application that provides endpoints to 
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Remithrn/book-api.git
+   cd book-api
    ```
 
 2. **Create and Activate a Virtual Environment:**
